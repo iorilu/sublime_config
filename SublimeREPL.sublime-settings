@@ -1,0 +1,8 @@
+{
+        "python_virtualenv_paths": [
+        //"~/.virtualenvs",   virtualenvwrapper
+        //"~/projects/guryun",
+        "~/projects/python-cookbook",
+        ]
+
+}

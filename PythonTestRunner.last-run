@@ -1,0 +1,3 @@
+{
+	"last_test_run": "source /home/lujun/projects/gushen/venv/bin/activate;nosetests -v -s tests;deactivate"
+}

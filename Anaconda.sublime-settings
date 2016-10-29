@@ -1,0 +1,7 @@
+{
+    "pep8": false,
+    "auto_python_builder_enabled": false,
+    // "test_command": "nosetests -v -s",
+    "anaconda_linter_mark_style" : "none",
+    "anaconda_linter_underlines": true,
+}

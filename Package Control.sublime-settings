@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Terminal"
+	]
+}
